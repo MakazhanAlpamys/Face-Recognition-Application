@@ -1,6 +1,6 @@
 # Face Recognition Application
 
-[Смотреть видео (MP4)](demo.mp4)
+![Demo](demo.gif)
 
 A simple MVP for facial recognition that can detect faces, display facial landmarks, and recognize different users.
 
